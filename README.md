@@ -14,5 +14,6 @@ printf is the C language function to do format-ted printing.
  If an error occurs, a negative number is returned.
 
 ## usage
- - All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
- - Include main.h which hold prototype functions
+ - All your files will be compiled on Ubuntu 20.04 LTS using gcc
+ - using the options -Wall -Werror -Wextra -pedantic -std=gnu89
+ - Include "main.h" which hold prototype functions to be used
